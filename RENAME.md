@@ -1,3 +1,3 @@
 #Kakaotalk Clone Coding
 
-열심히하자..
+열심히하자..!
