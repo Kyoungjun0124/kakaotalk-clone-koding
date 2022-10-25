@@ -16,14 +16,6 @@
   position: relative;
 }
 .nav__new {
-  background-color: tomato;
-  width: 23px;
-  height: 23px;
-  border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
   position: absolute;
   left: 20px;
   bottom: 18px;

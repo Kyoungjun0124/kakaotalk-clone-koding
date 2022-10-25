@@ -3,6 +3,7 @@
 @import "var.css";
 
 @import "components/status-bar.css";
+@import "components/badge.css";
 @import "components/nav.css";
 @import "screens/friend.css";
 @import "components/screen-header.css";
